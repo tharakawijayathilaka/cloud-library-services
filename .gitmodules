@@ -1,0 +1,9 @@
+[submodule "book-service"]
+	path = book-service
+	url = https://github.com/tharakawijayathilaka/cloud-library-book-service.git
+[submodule "member-service"]
+	path = member-service
+	url = https://github.com/tharakawijayathilaka/cloud-library-member-service.git
+[submodule "borrowing-service"]
+	path = borrowing-service
+	url = https://github.com/tharakawijayathilaka/cloud-library-borrowing-service.git
